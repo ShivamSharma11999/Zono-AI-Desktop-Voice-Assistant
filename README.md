@@ -1,1 +1,4 @@
 # Zono-AI-Desktop-Voice-Assistant
+"I developed a voice assistant using Python that can perform various tasks like searching Wikipedia, opening websites like YouTube and Google, playing music, telling the time, and sending emails. The project utilizes speech recognition to take voice input from the user, pyttsx3 for text-to-speech conversion, and webbrowser to open websites. For email functionality, I used smtplib to send emails directly from the assistant.
+
+It also has a feature to recognize and respond based on time-specific greetings. I implemented a simple command system where the assistant listens and executes tasks based on the user's voice commands. For example, saying 'quit' will terminate the program. This project demonstrates my skills in Python, API integration, and working with various libraries to create an interactive and functional application.
